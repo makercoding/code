@@ -1,0 +1,83 @@
+/* ================header================ */
+header {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  border-bottom : 1px solid black;
+}
+
+.float_right{
+  float: right;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+nav{
+  border : 1px solid black;
+}
+nav li {
+  float: left;
+  
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+nav li a:hover {
+  background-color: #111;
+}
+/* ================header================ */
+
+
+footer{
+  background-color: lightgray;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+  position : absolute;
+  left: 0;
+  bottom: 0;
+  
+}
+
+a{
+  text-decoration-line: none;
+  color : black;
+}
+
+article{
+  border-bottom : 1px solid black;
+}
+
+
+
+h2{
+  text-decoration-line: none;
+}
+
+.about_img{
+  height: 100%;
+  width: 100%;
+  background-image : url("https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMjdfMjY1%2FMDAxNjA2NDY1NzkwNzA5.5w_95nYbhpFktDGASvg5sJzBivIFQtbePgMboMfxtPIg.pWkja4xzs3aSaO0d5EYdkPbmG0PSt18zy2Q6whFVL9Eg.PNG.coding-helper%2F38.PNG&type=sc960_832");
+  background-size : 200px;
+}
