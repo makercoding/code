@@ -74,3 +74,8 @@ article{
 h2{
   text-decoration-line: none;
 }
+
+.about_img{
+  background-image : url("https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMjdfMjY1%2FMDAxNjA2NDY1NzkwNzA5.5w_95nYbhpFktDGASvg5sJzBivIFQtbePgMboMfxtPIg.pWkja4xzs3aSaO0d5EYdkPbmG0PSt18zy2Q6whFVL9Eg.PNG.coding-helper%2F38.PNG&type=sc960_832");
+  background-size : 200px;
+}
